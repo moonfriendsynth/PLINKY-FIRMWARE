@@ -1,0 +1,1 @@
+Small edit to Plinky software, v0.9z, so that the encoder clicks in the opposite direction. I changed line 163 of 'main.c', which is found here: https://github.com/plinkysynth/plinky_public/blob/main/sw/Core/Src/main.c
